@@ -1,1 +1,1 @@
-key = "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"
+key = "token-openai"
